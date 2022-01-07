@@ -1,5 +1,5 @@
 .me-conheca {
-    background-color: rosybrown;
+    background-color: rgb(209, 175, 175);
     text-align: center;
     padding: 30px;
 }
@@ -16,4 +16,11 @@
 
 .certificados {
     margin: auto;
+}
+
+.footer {
+    background-color: rgb(209, 175, 175);
+    text-align: center;
+    font-weight: bolder;
+    padding: 30px;
 }
